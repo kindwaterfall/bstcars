@@ -1,0 +1,23 @@
+@media (max-width: 1600px) {
+  .wrapper {
+    width: 80%;
+  }
+}
+
+@media (max-width: 1199px) {
+  .wrapper {
+    width: 85%;
+  }
+}
+
+@media (max-width: 991px) {
+  .wrapper {
+    width: 90%;
+  }
+}
+
+@media (max-width: 767px) {
+  .wrapper {
+    width: 95%;
+  }
+}
